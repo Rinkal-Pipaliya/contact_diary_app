@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916870111300",
+    "project_id": "final-exam-771e5",
+    "storage_bucket": "final-exam-771e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916870111300:android:30cd05c2aac174af7d9c11",
+        "android_client_info": {
+          "package_name": "com.example.contact_diary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXAaVqA8NxOjOaTTiFxMpyQra_KiVgIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
